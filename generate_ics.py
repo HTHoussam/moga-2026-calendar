@@ -11,7 +11,7 @@ from pathlib import Path
 TZID = "Africa/Casablanca"  # Morocco is UTC+1 in October (no Ramadan shift)
 OUT = Path(__file__).parent / "calendars"
 REMINDER = "-PT30M"  # 30 minutes before each set / party
-BASE_URL = ""  # public URL of the GitHub Pages site, e.g. https://user.github.io/moga-2026-calendar
+BASE_URL = "https://hthoussam.github.io/moga-2026-calendar"
 SITE_TITLE = "MOGA Essaouira 2026 · planner"
 
 FESTIVAL_VENUE = "Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco"
