@@ -1,5 +1,14 @@
 # MOGA Essaouira 2026 — calendar files
 
+**Share this link:** https://hthoussam.github.io/moga-2026-calendar/
+(one page with "Add everything" buttons for Apple/iPhone and Google Calendar, the full timetable, and a per-set add button)
+
+Direct subscribe URLs (everything, auto-updates if the lineup changes):
+- Apple / iPhone: `webcal://hthoussam.github.io/moga-2026-calendar/calendars/MOGA-2026-ALL.ics`
+- Google: https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fhthoussam.github.io%2Fmoga-2026-calendar%2Fcalendars%2FMOGA-2026-ALL.ics
+
+To update: edit `generate_ics.py`, run `python3 generate_ics.py`, commit and push — subscribers get the changes automatically.
+
 `.ics` files work in both **Apple Calendar** and **Google Calendar**. Every event has a **30‑minute reminder**.
 All times are Essaouira local time (Africa/Casablanca, UTC+1).
 
