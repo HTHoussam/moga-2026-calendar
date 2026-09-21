@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-coupole@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T190000
 DTEND;TZID=Africa/Casablanca:20261002T013000
 SUMMARY:MOGA OFF · La Coupole (Shift Collective)
@@ -24,7 +24,10 @@ LOCATION:La Coupole\, Essaouira Beach
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 19:00–01:30\nLine-up: ANO
  IR · Thomas & Steewa · Tino · Wailis\n(Individual set times not publish
  ed — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.50500
- 81\,-9.7635198
+ 81\,-9.7635198\n\nUnofficial fan-made calendar. Venues\, map pins and set 
+ times were taken from posters and the festival website and may be inaccura
+ te or change — double-check with the official MOGA channels before you h
+ ead out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5050081,-9.7635198
 GEO:31.5050081;-9.7635198

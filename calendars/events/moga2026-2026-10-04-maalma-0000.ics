@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T000000
 DTEND;TZID=Africa/Casablanca:20261005T020000
 SUMMARY:Ignacio Morales · Maalma
@@ -25,7 +25,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 00:00
  –02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651

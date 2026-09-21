@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-megaloft@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T133000
 DTEND;TZID=Africa/Casablanca:20261002T013000
 SUMMARY:MOGA OFF · Megaloft (REF)
@@ -24,7 +24,10 @@ LOCATION:Megaloft\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 13:30–01:30\nLine-up: And
  y Book · Ayyu · DJ Alasa · Lüna · Rabbi · Sparta\n(Individual set ti
  mes not published — reminder is for doors.)\n\nMap: https://maps.google.
- com/?q=31.5132541\,-9.7694854
+ com/?q=31.5132541\,-9.7694854\n\nUnofficial fan-made calendar. Venues\, ma
+ p pins and set times were taken from posters and the festival website and 
+ may be inaccurate or change — double-check with the official MOGA channe
+ ls before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5132541,-9.7694854
 GEO:31.5132541;-9.7694854

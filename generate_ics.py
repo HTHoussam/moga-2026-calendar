@@ -13,6 +13,9 @@ OUT = Path(__file__).parent / "calendars"
 REMINDER = "-PT30M"  # 30 minutes before each set / party
 BASE_URL = "https://hthoussam.github.io/moga-2026-calendar"
 SITE_TITLE = "MOGA Essaouira 2026 · planner"
+DISCLAIMER = ("Unofficial fan-made calendar. Venues, map pins and set times were taken from posters and the "
+              "festival website and may be inaccurate or change — double-check with the official MOGA channels before you head out. "
+              "Use at your own risk.")
 
 FESTIVAL_VENUE = "Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco"
 FESTIVAL_GEO = (31.470125, -9.7672651)
@@ -312,7 +315,7 @@ def festival_events(stages=None):
                     notes.append("Cartoon Record showcase.")
                 if STAGE_NOTES.get(stage):
                     notes.append(STAGE_NOTES[stage])
-                notes += ["", f"Map: {FESTIVAL_MAP}", f"Tickets: {TICKETS}"]
+                notes += ["", f"Map: {FESTIVAL_MAP}", f"Tickets: {TICKETS}", "", DISCLAIMER]
                 slug = stage.lower().replace("'", "")
                 uid = f"moga2026-{date}-{slug}-{s.replace(':', '')}@moga-planning"
                 events.append(event(
@@ -339,6 +342,7 @@ def off_events(parties):
         ]
         if extra:
             notes.append(f"RSVP / info: {extra}")
+        notes += ["", DISCLAIMER]
         uid = f"moga2026-off-{date}-{key}@moga-planning"
         events.append(event(
             uid, title, start, end, venue, "\n".join(notes), geo=geo,
@@ -508,9 +512,12 @@ ul.sets li:first-child{{border-top:0}}
 li.off{{display:block;background:var(--card);border-radius:14px;padding:10px 14px;margin-bottom:8px;border:0}}
 li.off>div{{display:flex;align-items:center;gap:8px}} .meta{{font-size:13px;color:var(--muted);margin-top:4px;display:block}}
 .meta a{{color:var(--blue)}}
+.disclaimer{{background:#fff3c4;color:#5a3d00;border:1px solid #f0c94a;border-radius:12px;padding:10px 14px;font-size:14px;margin:14px 0 0}}
 footer{{color:#fff;opacity:.8;font-size:13px;text-align:center;margin-top:30px}} footer a{{color:#fff}}
 </style></head><body><main>
 <header><h1>MOGA ESSAOUIRA 26</h1><p>30 Sep – 4 Oct 2026 · Hôtel Le Golf d'Essaouira &amp; Spa (ex-Sofitel Mogador) · times are Essaouira local (UTC+1)</p></header>
+
+<p class="disclaimer">⚠️ {h(DISCLAIMER)}</p>
 
 <div class="card hero">
 <h2>Add everything to your calendar</h2>

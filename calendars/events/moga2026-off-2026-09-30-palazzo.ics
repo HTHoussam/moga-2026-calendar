@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-palazzo@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T170000
 DTEND;TZID=Africa/Casablanca:20261001T013000
 SUMMARY:MOGA OFF · Le Palazzo (Reload)
@@ -24,7 +24,10 @@ LOCATION:Hôtel Le Palazzo\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–01:30\nLine-up: A
  yman · Charlie · Mikolaï · Norman\n(Individual set times not published
   — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.5113488
- \,-9.7707799
+ \,-9.7707799\n\nUnofficial fan-made calendar. Venues\, map pins and set ti
+ mes were taken from posters and the festival website and may be inaccurate
+  or change — double-check with the official MOGA channels before you hea
+ d out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5113488,-9.7707799
 GEO:31.5113488;-9.7707799

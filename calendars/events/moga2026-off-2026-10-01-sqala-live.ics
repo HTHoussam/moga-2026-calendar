@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-sqala-live@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T170000
 DTEND;TZID=Africa/Casablanca:20261001T230000
 SUMMARY:MOGA OFF · Live Music at Sqala — free w/ RSVP
@@ -25,7 +25,10 @@ DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:00–23:00\nLine-up: Bil
  li · Retro Cassetta · Glitter55 · MOGA Academy DJs · Monile\n(Individu
  al set times not published — reminder is for doors.)\n\nMap: https://map
  s.app.goo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festi
- vals/live-music-at-sqala-01-10
+ vals/live-music-at-sqala-01-10\n\nUnofficial fan-made calendar. Venues\, m
+ ap pins and set times were taken from posters and the festival website and
+  may be inaccurate or change — double-check with the official MOGA chann
+ els before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://shotgun.live/fr/festivals/live-music-at-sqala-01-10
 BEGIN:VALARM

@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-taros@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T160000
 DTEND;TZID=Africa/Casablanca:20261002T020000
 SUMMARY:MOGA OFF · Taros (Apéros Electros)
@@ -25,7 +25,10 @@ DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 16:00–02:00\nLine-up: Ben
  abdadil · Chinau · Coleeeette · Dymos · Jamie 3:26 · Jay Fase · Shiz
  zo · This is Yab\n(Individual set times not published — reminder is for
   doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9
- a4e9f588ccf:0x65843d760f3f7eb3
+ a4e9f588ccf:0x65843d760f3f7eb3\n\nUnofficial fan-made calendar. Venues\, m
+ ap pins and set times were taken from posters and the festival website and
+  may be inaccurate or change — double-check with the official MOGA chann
+ els before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
  65843d760f3f7eb3

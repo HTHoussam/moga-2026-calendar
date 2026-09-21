@@ -39,6 +39,8 @@ Event titles are `Artist · Stage`, e.g. `Jamie Jones · Hafla`.
 
 ## Notes
 
+- ⚠️ **Disclaimer:** unofficial, fan-made. Venues, map pins and set times come from posters and the festival website and may be inaccurate or change — check the official MOGA channels before heading out. Use at your own risk.
+
 - OFF parties don't publish individual set times, so each party is one event with the full line‑up in the notes; the reminder fires 30 min before doors.
 - Friday's Sqala stage is the Cartoon Record showcase; the Maalma stage is curated by Supervibe.
 - To change anything, edit `generate_ics.py` and run `python3 generate_ics.py`. UIDs are stable, so re‑importing updates events instead of duplicating them.

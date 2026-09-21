@@ -17,7 +17,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-sqala-live@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T170000
 DTEND;TZID=Africa/Casablanca:20260930T230000
 SUMMARY:MOGA OFF · Live Music at Sqala (Opening Concert) — free w/ RSVP
@@ -26,7 +26,10 @@ DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–23:00\nLine-up: M
  ask Off · MOGA Academy DJs · Mr ID · Robin M · Smemo\n(Individual set 
  times not published — reminder is for doors.)\n\nMap: https://maps.app.g
  oo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festivals/li
- ve-music-at-sqala-30-09
+ ve-music-at-sqala-30-09\n\nUnofficial fan-made calendar. Venues\, map pins
+  and set times were taken from posters and the festival website and may be
+  inaccurate or change — double-check with the official MOGA channels bef
+ ore you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://shotgun.live/fr/festivals/live-music-at-sqala-30-09
 BEGIN:VALARM

@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T160000
 DTEND;TZID=Africa/Casablanca:20261002T180000
 SUMMARY:Oufras · Maalma
@@ -25,7 +25,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 16:00
  –18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -40,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T180000
 DTEND;TZID=Africa/Casablanca:20261002T200000
 SUMMARY:Waillis · Maalma
@@ -49,7 +52,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 18:00
  –20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -64,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T200000
 DTEND;TZID=Africa/Casablanca:20261002T220000
 SUMMARY:Yassir · Maalma
@@ -73,7 +79,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 20:00
  –22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -88,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T220000
 DTEND;TZID=Africa/Casablanca:20261003T000000
 SUMMARY:Rikku · Maalma
@@ -97,7 +106,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 22:00
  –00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -112,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T000000
 DTEND;TZID=Africa/Casablanca:20261003T020000
 SUMMARY:Tripple Seven · Maalma
@@ -121,7 +133,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 00:00
  –02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -136,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-maalma-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T020000
 DTEND;TZID=Africa/Casablanca:20261003T040000
 SUMMARY:De La Roza · Maalma
@@ -145,7 +160,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 02:00
  –04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -160,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T160000
 DTEND;TZID=Africa/Casablanca:20261003T180000
 SUMMARY:Acid Ramen · Maalma
@@ -169,7 +187,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 16:
  00–18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -184,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T180000
 DTEND;TZID=Africa/Casablanca:20261003T200000
 SUMMARY:Moruki · Maalma
@@ -193,7 +214,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 18:
  00–20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -208,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T200000
 DTEND;TZID=Africa/Casablanca:20261003T220000
 SUMMARY:Memed Awad · Maalma
@@ -217,7 +241,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 20:
  00–22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -232,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T220000
 DTEND;TZID=Africa/Casablanca:20261004T000000
 SUMMARY:Alexis Cabrera (Live) · Maalma
@@ -241,7 +268,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 22:
  00–00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -256,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T000000
 DTEND;TZID=Africa/Casablanca:20261004T020000
 SUMMARY:Calabasa · Maalma
@@ -265,7 +295,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 00:
  00–02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -280,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-maalma-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T020000
 DTEND;TZID=Africa/Casablanca:20261004T040000
 SUMMARY:Voigtmann · Maalma
@@ -289,7 +322,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 02:
  00–04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
  .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
- ts?event=essaouira
+ ts?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -304,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T160000
 DTEND;TZID=Africa/Casablanca:20261004T180000
 SUMMARY:Umaedo · Maalma
@@ -313,7 +349,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 16:00
  –18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -328,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T180000
 DTEND;TZID=Africa/Casablanca:20261004T200000
 SUMMARY:Badr Ake · Maalma
@@ -337,7 +376,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 18:00
  –20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -352,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T200000
 DTEND;TZID=Africa/Casablanca:20261004T220000
 SUMMARY:Aykat · Maalma
@@ -361,7 +403,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 20:00
  –22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -376,7 +421,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T220000
 DTEND;TZID=Africa/Casablanca:20261005T000000
 SUMMARY:Saul · Maalma
@@ -385,7 +430,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 22:00
  –00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -400,7 +448,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T000000
 DTEND;TZID=Africa/Casablanca:20261005T020000
 SUMMARY:Ignacio Morales · Maalma
@@ -409,7 +457,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 00:00
  –02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -424,7 +475,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-maalma-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T020000
 DTEND;TZID=Africa/Casablanca:20261005T040000
 SUMMARY:Ruven Medici · Maalma
@@ -433,7 +484,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 02:00
  –04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
  om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
- ?event=essaouira
+ ?event=essaouira\n\nUnofficial fan-made calendar. Venues\, map pins and se
+ t times were taken from posters and the festival website and may be inaccu
+ rate or change — double-check with the official MOGA channels before you
+  head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Maalma
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651

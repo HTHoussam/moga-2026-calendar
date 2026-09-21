@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T160000
 DTEND;TZID=Africa/Casablanca:20261002T180000
 SUMMARY:Mov. · Hafla
@@ -24,7 +24,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 16:00
  –18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -39,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T180000
 DTEND;TZID=Africa/Casablanca:20261002T193000
 SUMMARY:Florentia · Hafla
@@ -47,7 +50,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 18:00
  –19:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -62,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-1930@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T193000
 DTEND;TZID=Africa/Casablanca:20261002T213000
 SUMMARY:Othman Kabbadj · Hafla
@@ -70,7 +76,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 19:30
  –21:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -85,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-2130@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T213000
 DTEND;TZID=Africa/Casablanca:20261003T000000
 SUMMARY:Gawdat · Hafla
@@ -93,7 +102,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 21:30
  –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -108,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T000000
 DTEND;TZID=Africa/Casablanca:20261003T020000
 SUMMARY:Jamie Jones · Hafla
@@ -116,7 +128,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 00:00
  –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -131,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-hafla-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T020000
 DTEND;TZID=Africa/Casablanca:20261003T040000
 SUMMARY:Richy Ahmed · Hafla
@@ -139,7 +154,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 02:00
  –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -154,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T160000
 DTEND;TZID=Africa/Casablanca:20261003T180000
 SUMMARY:Jazzee & Meyzz · Hafla
@@ -162,7 +180,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 16:0
  0–18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -177,7 +198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T180000
 DTEND;TZID=Africa/Casablanca:20261003T200000
 SUMMARY:Halfpint · Hafla
@@ -185,7 +206,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 18:0
  0–20:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -200,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T200000
 DTEND;TZID=Africa/Casablanca:20261003T220000
 SUMMARY:Jesse Calosso · Hafla
@@ -208,7 +232,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 20:0
  0–22:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -223,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T220000
 DTEND;TZID=Africa/Casablanca:20261004T000000
 SUMMARY:Matisa · Hafla
@@ -231,7 +258,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 22:0
  0–00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -246,7 +276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T000000
 DTEND;TZID=Africa/Casablanca:20261004T020000
 SUMMARY:The Martinez Brothers · Hafla
@@ -254,7 +284,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 00:0
  0–02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -269,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-hafla-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T020000
 DTEND;TZID=Africa/Casablanca:20261004T040000
 SUMMARY:Silvie Loto · Hafla
@@ -277,7 +310,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 02:0
  0–04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -292,7 +328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T160000
 DTEND;TZID=Africa/Casablanca:20261004T180000
 SUMMARY:Ebba · Hafla
@@ -300,7 +336,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 16:00
  –18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -315,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T180000
 DTEND;TZID=Africa/Casablanca:20261004T200000
 SUMMARY:Polyswitch · Hafla
@@ -323,7 +362,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 18:00
  –20:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -338,7 +380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T200000
 DTEND;TZID=Africa/Casablanca:20261004T220000
 SUMMARY:Doudou MD · Hafla
@@ -346,7 +388,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 20:00
  –22:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -361,7 +406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T220000
 DTEND;TZID=Africa/Casablanca:20261005T000000
 SUMMARY:Bradley Zero · Hafla
@@ -369,7 +414,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 22:00
  –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -384,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T000000
 DTEND;TZID=Africa/Casablanca:20261005T020000
 SUMMARY:ANOTR · Hafla
@@ -392,7 +440,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 00:00
  –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -407,7 +458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-hafla-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T020000
 DTEND;TZID=Africa/Casablanca:20261005T040000
 SUMMARY:Amine K b2b Daox · Hafla
@@ -415,7 +466,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 02:00
  –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Hafla
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651

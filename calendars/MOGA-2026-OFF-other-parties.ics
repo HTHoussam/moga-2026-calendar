@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-laperle@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T120000
 DTEND;TZID=Africa/Casablanca:20260930T190000
 SUMMARY:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Taghazou
@@ -25,7 +25,10 @@ LOCATION:La Perle de Mogador Hotel\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 12:00–19:00\nLine-up: A
  lpha · Felix ID · Ivan Escura · Rita Soko\n(Individual set times not pu
  blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
- 4954804\,-9.7569085
+ 4954804\,-9.7569085\n\nUnofficial fan-made calendar. Venues\, map pins and
+  set times were taken from posters and the festival website and may be ina
+ ccurate or change — double-check with the official MOGA channels before 
+ you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4954804,-9.7569085
 GEO:31.4954804;-9.7569085
@@ -40,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-megaloft@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T130000
 DTEND;TZID=Africa/Casablanca:20261001T013000
 SUMMARY:MOGA OFF · Megaloft
@@ -48,7 +51,11 @@ LOCATION:Megaloft\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 13:00–01:30\nLine-up: A
  xis · Boogiechalz · DJ Alasa · L82DP · MKLF · Mouta · Rabbi · Spart
  a · SYC Gull · Vikii\n(Individual set times not published — reminder i
- s for doors.)\n\nMap: https://maps.google.com/?q=31.5132541\,-9.7694854
+ s for doors.)\n\nMap: https://maps.google.com/?q=31.5132541\,-9.7694854\n\
+ nUnofficial fan-made calendar. Venues\, map pins and set times were taken 
+ from posters and the festival website and may be inaccurate or change — 
+ double-check with the official MOGA channels before you head out. Use at y
+ our own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5132541,-9.7694854
 GEO:31.5132541;-9.7694854
@@ -62,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-taros@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T160000
 DTEND;TZID=Africa/Casablanca:20261001T020000
 SUMMARY:MOGA OFF · Taros (Apéros Electros)
@@ -71,7 +78,10 @@ DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 16:00–02:00\nLine-up: B
  el Âge · Benabdadil · DJ Steaw · Joe Lewandowski · Nicola Moreno · S
  ouki · Valentine Groove\n(Individual set times not published — reminder
   is for doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1
- s0xdad9a4e9f588ccf:0x65843d760f3f7eb3
+ s0xdad9a4e9f588ccf:0x65843d760f3f7eb3\n\nUnofficial fan-made calendar. Ven
+ ues\, map pins and set times were taken from posters and the festival webs
+ ite and may be inaccurate or change — double-check with the official MOG
+ A channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
  65843d760f3f7eb3
@@ -83,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-sqala-live@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T170000
 DTEND;TZID=Africa/Casablanca:20260930T230000
 SUMMARY:MOGA OFF · Live Music at Sqala (Opening Concert) — free w/ RSVP
@@ -92,7 +102,10 @@ DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–23:00\nLine-up: M
  ask Off · MOGA Academy DJs · Mr ID · Robin M · Smemo\n(Individual set 
  times not published — reminder is for doors.)\n\nMap: https://maps.app.g
  oo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festivals/li
- ve-music-at-sqala-30-09
+ ve-music-at-sqala-30-09\n\nUnofficial fan-made calendar. Venues\, map pins
+  and set times were taken from posters and the festival website and may be
+  inaccurate or change — double-check with the official MOGA channels bef
+ ore you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://shotgun.live/fr/festivals/live-music-at-sqala-30-09
 BEGIN:VALARM
@@ -104,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-palazzo@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T170000
 DTEND;TZID=Africa/Casablanca:20261001T013000
 SUMMARY:MOGA OFF · Le Palazzo (Reload)
@@ -112,7 +125,10 @@ LOCATION:Hôtel Le Palazzo\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–01:30\nLine-up: A
  yman · Charlie · Mikolaï · Norman\n(Individual set times not published
   — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.5113488
- \,-9.7707799
+ \,-9.7707799\n\nUnofficial fan-made calendar. Venues\, map pins and set ti
+ mes were taken from posters and the festival website and may be inaccurate
+  or change — double-check with the official MOGA channels before you hea
+ d out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5113488,-9.7707799
 GEO:31.5113488;-9.7707799
@@ -126,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-beachfriends@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T180000
 DTEND;TZID=Africa/Casablanca:20261001T020000
 SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
@@ -134,7 +150,10 @@ LOCATION:Beach & Friends\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 18:00–02:00\nLine-up: A
  nas M · Otto · Luca Ruiz · Thomas Schmitt\n(Individual set times not pu
  blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
- 4973091\,-9.7630615
+ 4973091\,-9.7630615\n\nUnofficial fan-made calendar. Venues\, map pins and
+  set times were taken from posters and the festival website and may be ina
+ ccurate or change — double-check with the official MOGA channels before 
+ you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4973091,-9.7630615
 GEO:31.4973091;-9.7630615
@@ -149,7 +168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-coupole@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T190000
 DTEND;TZID=Africa/Casablanca:20261001T013000
 SUMMARY:MOGA OFF · La Coupole (Shift Collective)
@@ -157,7 +176,10 @@ LOCATION:La Coupole\, Essaouira Beach
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 19:00–01:30\nLine-up: A
  zir · Benaïssa · Eden Azuelos · Izi\n(Individual set times not publish
  ed — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.50500
- 81\,-9.7635198
+ 81\,-9.7635198\n\nUnofficial fan-made calendar. Venues\, map pins and set 
+ times were taken from posters and the festival website and may be inaccura
+ te or change — double-check with the official MOGA channels before you h
+ ead out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5050081,-9.7635198
 GEO:31.5050081;-9.7635198
@@ -171,7 +193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-cosmo@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T210000
 DTEND;TZID=Africa/Casablanca:20261001T020000
 SUMMARY:MOGA OFF · Cosmo
@@ -179,7 +201,10 @@ LOCATION:Cosmo Mogador\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 21:00–02:00\nLine-up: A
  nthony Cox · Soufwax · Wolff\n(Individual set times not published — re
  minder is for doors.)\n\nMap: https://maps.google.com/?q=31.5121952\,-9.77
- 20978
+ 20978\n\nUnofficial fan-made calendar. Venues\, map pins and set times wer
+ e taken from posters and the festival website and may be inaccurate or cha
+ nge — double-check with the official MOGA channels before you head out. 
+ Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5121952,-9.7720978
 GEO:31.5121952;-9.7720978
@@ -193,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-laperle@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T120000
 DTEND;TZID=Africa/Casablanca:20261001T190000
 SUMMARY:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Taghazou
@@ -202,7 +227,10 @@ LOCATION:La Perle de Mogador Hotel\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 12:00–19:00\nLine-up: Bla
  ckout · Diego Knows · Foxy From Space · Yaya Alen\n(Individual set time
  s not published — reminder is for doors.)\n\nMap: https://maps.google.co
- m/?q=31.4954804\,-9.7569085
+ m/?q=31.4954804\,-9.7569085\n\nUnofficial fan-made calendar. Venues\, map 
+ pins and set times were taken from posters and the festival website and ma
+ y be inaccurate or change — double-check with the official MOGA channels
+  before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4954804,-9.7569085
 GEO:31.4954804;-9.7569085
@@ -217,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-megaloft@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T133000
 DTEND;TZID=Africa/Casablanca:20261002T013000
 SUMMARY:MOGA OFF · Megaloft (REF)
@@ -225,7 +253,10 @@ LOCATION:Megaloft\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 13:30–01:30\nLine-up: And
  y Book · Ayyu · DJ Alasa · Lüna · Rabbi · Sparta\n(Individual set ti
  mes not published — reminder is for doors.)\n\nMap: https://maps.google.
- com/?q=31.5132541\,-9.7694854
+ com/?q=31.5132541\,-9.7694854\n\nUnofficial fan-made calendar. Venues\, ma
+ p pins and set times were taken from posters and the festival website and 
+ may be inaccurate or change — double-check with the official MOGA channe
+ ls before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5132541,-9.7694854
 GEO:31.5132541;-9.7694854
@@ -239,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-taros@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T160000
 DTEND;TZID=Africa/Casablanca:20261002T020000
 SUMMARY:MOGA OFF · Taros (Apéros Electros)
@@ -248,7 +279,10 @@ DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 16:00–02:00\nLine-up: Ben
  abdadil · Chinau · Coleeeette · Dymos · Jamie 3:26 · Jay Fase · Shiz
  zo · This is Yab\n(Individual set times not published — reminder is for
   doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9
- a4e9f588ccf:0x65843d760f3f7eb3
+ a4e9f588ccf:0x65843d760f3f7eb3\n\nUnofficial fan-made calendar. Venues\, m
+ ap pins and set times were taken from posters and the festival website and
+  may be inaccurate or change — double-check with the official MOGA chann
+ els before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
  65843d760f3f7eb3
@@ -260,7 +294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-sqala-live@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T170000
 DTEND;TZID=Africa/Casablanca:20261001T230000
 SUMMARY:MOGA OFF · Live Music at Sqala — free w/ RSVP
@@ -269,7 +303,10 @@ DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:00–23:00\nLine-up: Bil
  li · Retro Cassetta · Glitter55 · MOGA Academy DJs · Monile\n(Individu
  al set times not published — reminder is for doors.)\n\nMap: https://map
  s.app.goo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festi
- vals/live-music-at-sqala-01-10
+ vals/live-music-at-sqala-01-10\n\nUnofficial fan-made calendar. Venues\, m
+ ap pins and set times were taken from posters and the festival website and
+  may be inaccurate or change — double-check with the official MOGA chann
+ els before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://shotgun.live/fr/festivals/live-music-at-sqala-01-10
 BEGIN:VALARM
@@ -281,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-palazzo@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T170000
 DTEND;TZID=Africa/Casablanca:20261002T013000
 SUMMARY:MOGA OFF · Le Palazzo (Reload)
@@ -289,6 +326,10 @@ LOCATION:Hôtel Le Palazzo\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:00–01:30\nLine-up: CAP
   · Holly Molly · Topper\n(Individual set times not published — reminde
  r is for doors.)\n\nMap: https://maps.google.com/?q=31.5113488\,-9.7707799
+ \n\nUnofficial fan-made calendar. Venues\, map pins and set times were tak
+ en from posters and the festival website and may be inaccurate or change 
+ — double-check with the official MOGA channels before you head out. Use 
+ at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5113488,-9.7707799
 GEO:31.5113488;-9.7707799
@@ -302,7 +343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-villanour@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T173000
 DTEND;TZID=Africa/Casablanca:20261002T023000
 SUMMARY:MOGA OFF · Villa Nour (Secte)
@@ -310,7 +351,10 @@ LOCATION:Villa Nour\, km 7 Douar El Ghazoua\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:30–02:30\nLine-up: Ash
  i · Biisse · E-Youb · Julien Blanch · Ladagnous · Nico Rodas · UU'B\
  n(Individual set times not published — reminder is for doors.)\n\nMap: h
- ttps://maps.google.com/?q=31.4547196\,-9.7457477
+ ttps://maps.google.com/?q=31.4547196\,-9.7457477\n\nUnofficial fan-made ca
+ lendar. Venues\, map pins and set times were taken from posters and the fe
+ stival website and may be inaccurate or change — double-check with the o
+ fficial MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4547196,-9.7457477
 GEO:31.4547196;-9.7457477
@@ -324,7 +368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-beachfriends@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T180000
 DTEND;TZID=Africa/Casablanca:20261002T020000
 SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
@@ -332,7 +376,10 @@ LOCATION:Beach & Friends\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 18:00–02:00\nLine-up: Gab
  riel Belabbas · Illspleen · Mendy\n(Individual set times not published 
  — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.4973091\
- ,-9.7630615
+ ,-9.7630615\n\nUnofficial fan-made calendar. Venues\, map pins and set tim
+ es were taken from posters and the festival website and may be inaccurate 
+ or change — double-check with the official MOGA channels before you head
+  out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4973091,-9.7630615
 GEO:31.4973091;-9.7630615
@@ -347,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-coupole@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T190000
 DTEND;TZID=Africa/Casablanca:20261002T013000
 SUMMARY:MOGA OFF · La Coupole (Shift Collective)
@@ -355,7 +402,10 @@ LOCATION:La Coupole\, Essaouira Beach
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 19:00–01:30\nLine-up: ANO
  IR · Thomas & Steewa · Tino · Wailis\n(Individual set times not publish
  ed — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.50500
- 81\,-9.7635198
+ 81\,-9.7635198\n\nUnofficial fan-made calendar. Venues\, map pins and set 
+ times were taken from posters and the festival website and may be inaccura
+ te or change — double-check with the official MOGA channels before you h
+ ead out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5050081,-9.7635198
 GEO:31.5050081;-9.7635198
@@ -369,7 +419,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-off-2026-10-01-cosmo@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261001T210000
 DTEND;TZID=Africa/Casablanca:20261002T020000
 SUMMARY:MOGA OFF · Cosmo
@@ -377,7 +427,10 @@ LOCATION:Cosmo Mogador\, Essaouira
 DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 21:00–02:00\nLine-up: Ant
  hony Cox · DJ Donut · Soufwax · Victori1\n(Individual set times not pub
  lished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.5
- 121952\,-9.7720978
+ 121952\,-9.7720978\n\nUnofficial fan-made calendar. Venues\, map pins and 
+ set times were taken from posters and the festival website and may be inac
+ curate or change — double-check with the official MOGA channels before y
+ ou head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.5121952,-9.7720978
 GEO:31.5121952;-9.7720978

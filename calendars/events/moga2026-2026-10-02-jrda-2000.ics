@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-jrda-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T200000
 DTEND;TZID=Africa/Casablanca:20261003T000000
 SUMMARY:Piiticu · J'rda
@@ -24,7 +24,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: J'rda\nSet: 20:00
  –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,J'rda
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651

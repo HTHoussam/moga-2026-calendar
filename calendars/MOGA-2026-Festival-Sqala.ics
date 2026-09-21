@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T160000
 DTEND;TZID=Africa/Casablanca:20261002T180000
 SUMMARY:Asmun · Sqala
@@ -25,7 +25,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 16:00
  –18:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -40,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-1800@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T180000
 DTEND;TZID=Africa/Casablanca:20261002T200000
 SUMMARY:N4BZ · Sqala
@@ -49,7 +52,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 18:00
  –20:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -64,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-2000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T200000
 DTEND;TZID=Africa/Casablanca:20261002T220000
 SUMMARY:Hamadeus · Sqala
@@ -73,7 +79,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 20:00
  –22:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -88,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-2200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T220000
 DTEND;TZID=Africa/Casablanca:20261003T000000
 SUMMARY:Oz & Rem · Sqala
@@ -97,7 +106,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 22:00
  –00:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -112,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T000000
 DTEND;TZID=Africa/Casablanca:20261003T020000
 SUMMARY:Jhobei · Sqala
@@ -121,7 +133,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 00:00
  –02:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -136,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T020000
 DTEND;TZID=Africa/Casablanca:20261003T040000
 SUMMARY:Julian Anthony · Sqala
@@ -145,7 +160,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 02:00
  –04:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -160,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T160000
 DTEND;TZID=Africa/Casablanca:20261003T190000
 SUMMARY:Baruck b2b Mambaskar · Sqala
@@ -168,7 +186,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 16:0
  0–19:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -183,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-1900@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T190000
 DTEND;TZID=Africa/Casablanca:20261003T210000
 SUMMARY:Abel · Sqala
@@ -191,7 +212,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 19:0
  0–21:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -206,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-2100@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T210000
 DTEND;TZID=Africa/Casablanca:20261003T230000
 SUMMARY:Yamagucci · Sqala
@@ -214,7 +238,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 21:0
  0–23:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -229,7 +256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-2300@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261003T230000
 DTEND;TZID=Africa/Casablanca:20261004T003000
 SUMMARY:Notre Dame · Sqala
@@ -237,7 +264,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 23:0
  0–00:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -252,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-0030@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T003000
 DTEND;TZID=Africa/Casablanca:20261004T020000
 SUMMARY:Ramyen · Sqala
@@ -260,7 +290,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 00:3
  0–02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -275,7 +308,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-03-sqala-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T020000
 DTEND;TZID=Africa/Casablanca:20261004T040000
 SUMMARY:Notre Dame b2b Ramyen b2b Yamagucci · Sqala
@@ -283,7 +316,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 02:0
  0–04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
- s: https://www.mogafestival.com/tickets?event=essaouira
+ s: https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-
+ made calendar. Venues\, map pins and set times were taken from posters and
+  the festival website and may be inaccurate or change — double-check wit
+ h the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -299,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-sqala-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T160000
 DTEND;TZID=Africa/Casablanca:20261004T190000
 SUMMARY:Loewenthal · Sqala
@@ -307,7 +343,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 16:00
  –19:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -322,7 +361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-sqala-1900@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T190000
 DTEND;TZID=Africa/Casablanca:20261004T213000
 SUMMARY:Kalabrese · Sqala
@@ -330,7 +369,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 19:00
  –21:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -345,7 +387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-sqala-2130@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261004T213000
 DTEND;TZID=Africa/Casablanca:20261005T000000
 SUMMARY:Viken Arman · Sqala
@@ -353,7 +395,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 21:30
  –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -368,7 +413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-sqala-0000@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T000000
 DTEND;TZID=Africa/Casablanca:20261005T020000
 SUMMARY:Fort Romeau · Sqala
@@ -376,7 +421,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 00:00
  –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
@@ -391,7 +439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:moga2026-2026-10-04-sqala-0200@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261005T020000
 DTEND;TZID=Africa/Casablanca:20261005T040000
 SUMMARY:Cesar Merveille · Sqala
@@ -399,7 +447,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
  , Morocco
 DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 02:00
  –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
- : https://www.mogafestival.com/tickets?event=essaouira
+ : https://www.mogafestival.com/tickets?event=essaouira\n\nUnofficial fan-m
+ ade calendar. Venues\, map pins and set times were taken from posters and 
+ the festival website and may be inaccurate or change — double-check with
+  the official MOGA channels before you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651

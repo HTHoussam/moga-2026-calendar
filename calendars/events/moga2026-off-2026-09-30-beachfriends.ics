@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-off-2026-09-30-beachfriends@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20260930T180000
 DTEND;TZID=Africa/Casablanca:20261001T020000
 SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
@@ -24,7 +24,10 @@ LOCATION:Beach & Friends\, Essaouira
 DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 18:00–02:00\nLine-up: A
  nas M · Otto · Luca Ruiz · Thomas Schmitt\n(Individual set times not pu
  blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
- 4973091\,-9.7630615
+ 4973091\,-9.7630615\n\nUnofficial fan-made calendar. Venues\, map pins and
+  set times were taken from posters and the festival website and may be ina
+ ccurate or change — double-check with the official MOGA channels before 
+ you head out. Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA OFF
 URL:https://maps.google.com/?q=31.4973091,-9.7630615
 GEO:31.4973091;-9.7630615

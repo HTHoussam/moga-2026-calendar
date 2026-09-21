@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:moga2026-2026-10-02-sqala-1600@moga-planning
-DTSTAMP:20260921T212730Z
+DTSTAMP:20260921T213823Z
 DTSTART;TZID=Africa/Casablanca:20261002T160000
 DTEND;TZID=Africa/Casablanca:20261002T180000
 SUMMARY:Asmun · Sqala
@@ -25,7 +25,10 @@ LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
 DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 16:00
  –18:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
  70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
- aouira
+ aouira\n\nUnofficial fan-made calendar. Venues\, map pins and set times we
+ re taken from posters and the festival website and may be inaccurate or ch
+ ange — double-check with the official MOGA channels before you head out.
+  Use at your own risk.
 CATEGORIES:MOGA 2026,MOGA,Sqala
 URL:https://www.mogafestival.com/tickets?event=essaouira
 GEO:31.470125;-9.7672651
