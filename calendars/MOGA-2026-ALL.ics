@@ -1,0 +1,2004 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moga-planning//MOGA Essaouira 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MOGA Essaouira 2026
+X-WR-TIMEZONE:Africa/Casablanca
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+BEGIN:STANDARD
+DTSTART:20180101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:+01
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-beytt@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T190000
+DTEND;TZID=Africa/Casablanca:20261001T030000
+SUMMARY:MOGA OFF · Cartoon Record × Beytt Mogador
+LOCATION:Beytt Mogador\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 19:00–03:00\nLine-up: D
+ J Gamba · Asmun · Rem · Oz · Krimo\n(Individual set times not publishe
+ d — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.503948
+ 8\,-9.7632255
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5039488,-9.7632255
+GEO:31.5039488;-9.7632255
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Beytt Mog
+ ador, Essaouira":geo:31.5039488,-9.7632255
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Cartoon Record × Beytt Mogador starts in 30 minute
+ s
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-beytt@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T190000
+DTEND;TZID=Africa/Casablanca:20261002T030000
+SUMMARY:MOGA OFF · Cartoon Record × Beytt Mogador
+LOCATION:Beytt Mogador\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 19:00–03:00\nLine-up: Jam
+ es Andrew (Live) · Anirr · N4BZ · Sue · Koko & Sanji\n(Individual set 
+ times not published — reminder is for doors.)\n\nMap: https://maps.googl
+ e.com/?q=31.5039488\,-9.7632255
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5039488,-9.7632255
+GEO:31.5039488;-9.7632255
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Beytt Mog
+ ador, Essaouira":geo:31.5039488,-9.7632255
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Cartoon Record × Beytt Mogador starts in 30 minute
+ s
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-laperle@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T120000
+DTEND;TZID=Africa/Casablanca:20260930T190000
+SUMMARY:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Taghazou
+ t)
+LOCATION:La Perle de Mogador Hotel\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 12:00–19:00\nLine-up: A
+ lpha · Felix ID · Ivan Escura · Rita Soko\n(Individual set times not pu
+ blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
+ 4954804\,-9.7569085
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4954804,-9.7569085
+GEO:31.4954804;-9.7569085
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="La Perle 
+ de Mogador Hotel, Essaouira":geo:31.4954804,-9.7569085
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Tagh
+ azout) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-megaloft@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T130000
+DTEND;TZID=Africa/Casablanca:20261001T013000
+SUMMARY:MOGA OFF · Megaloft
+LOCATION:Megaloft\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 13:00–01:30\nLine-up: A
+ xis · Boogiechalz · DJ Alasa · L82DP · MKLF · Mouta · Rabbi · Spart
+ a · SYC Gull · Vikii\n(Individual set times not published — reminder i
+ s for doors.)\n\nMap: https://maps.google.com/?q=31.5132541\,-9.7694854
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5132541,-9.7694854
+GEO:31.5132541;-9.7694854
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Megaloft,
+  Essaouira":geo:31.5132541,-9.7694854
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Megaloft starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-taros@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T160000
+DTEND;TZID=Africa/Casablanca:20261001T020000
+SUMMARY:MOGA OFF · Taros (Apéros Electros)
+LOCATION:Taros\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 16:00–02:00\nLine-up: B
+ el Âge · Benabdadil · DJ Steaw · Joe Lewandowski · Nicola Moreno · S
+ ouki · Valentine Groove\n(Individual set times not published — reminder
+  is for doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1
+ s0xdad9a4e9f588ccf:0x65843d760f3f7eb3
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
+ 65843d760f3f7eb3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Taros (Apéros Electros) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-sqala-live@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T170000
+DTEND;TZID=Africa/Casablanca:20260930T230000
+SUMMARY:MOGA OFF · Live Music at Sqala (Opening Concert) — free w/ RSVP
+LOCATION:Sqala\, Essaouira medina
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–23:00\nLine-up: M
+ ask Off · MOGA Academy DJs · Mr ID · Robin M · Smemo\n(Individual set 
+ times not published — reminder is for doors.)\n\nMap: https://maps.app.g
+ oo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festivals/li
+ ve-music-at-sqala-30-09
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://shotgun.live/fr/festivals/live-music-at-sqala-30-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Live Music at Sqala (Opening Concert) — free w/ R
+ SVP starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-palazzo@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T170000
+DTEND;TZID=Africa/Casablanca:20261001T013000
+SUMMARY:MOGA OFF · Le Palazzo (Reload)
+LOCATION:Hôtel Le Palazzo\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 17:00–01:30\nLine-up: A
+ yman · Charlie · Mikolaï · Norman\n(Individual set times not published
+  — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.5113488
+ \,-9.7707799
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5113488,-9.7707799
+GEO:31.5113488;-9.7707799
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Palazzo, Essaouira":geo:31.5113488,-9.7707799
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Le Palazzo (Reload) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-beachfriends@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T180000
+DTEND;TZID=Africa/Casablanca:20261001T020000
+SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
+LOCATION:Beach & Friends\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 18:00–02:00\nLine-up: A
+ nas M · Otto · Luca Ruiz · Thomas Schmitt\n(Individual set times not pu
+ blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
+ 4973091\,-9.7630615
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4973091,-9.7630615
+GEO:31.4973091;-9.7630615
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Beach & F
+ riends, Essaouira":geo:31.4973091,-9.7630615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Beach & Friends × Le Matin Records starts in 30 mi
+ nutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-coupole@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T190000
+DTEND;TZID=Africa/Casablanca:20261001T013000
+SUMMARY:MOGA OFF · La Coupole (Shift Collective)
+LOCATION:La Coupole\, Essaouira Beach
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 19:00–01:30\nLine-up: A
+ zir · Benaïssa · Eden Azuelos · Izi\n(Individual set times not publish
+ ed — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.50500
+ 81\,-9.7635198
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5050081,-9.7635198
+GEO:31.5050081;-9.7635198
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="La Coupol
+ e, Essaouira Beach":geo:31.5050081,-9.7635198
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · La Coupole (Shift Collective) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-cosmo@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T210000
+DTEND;TZID=Africa/Casablanca:20261001T020000
+SUMMARY:MOGA OFF · Cosmo
+LOCATION:Cosmo Mogador\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 21:00–02:00\nLine-up: A
+ nthony Cox · Soufwax · Wolff\n(Individual set times not published — re
+ minder is for doors.)\n\nMap: https://maps.google.com/?q=31.5121952\,-9.77
+ 20978
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5121952,-9.7720978
+GEO:31.5121952;-9.7720978
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Cosmo Mog
+ ador, Essaouira":geo:31.5121952,-9.7720978
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Cosmo starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-laperle@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T120000
+DTEND;TZID=Africa/Casablanca:20261001T190000
+SUMMARY:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Taghazou
+ t)
+LOCATION:La Perle de Mogador Hotel\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 12:00–19:00\nLine-up: Bla
+ ckout · Diego Knows · Foxy From Space · Yaya Alen\n(Individual set time
+ s not published — reminder is for doors.)\n\nMap: https://maps.google.co
+ m/?q=31.4954804\,-9.7569085
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4954804,-9.7569085
+GEO:31.4954804;-9.7569085
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="La Perle 
+ de Mogador Hotel, Essaouira":geo:31.4954804,-9.7569085
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Tagh
+ azout) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-megaloft@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T133000
+DTEND;TZID=Africa/Casablanca:20261002T013000
+SUMMARY:MOGA OFF · Megaloft (REF)
+LOCATION:Megaloft\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 13:30–01:30\nLine-up: And
+ y Book · Ayyu · DJ Alasa · Lüna · Rabbi · Sparta\n(Individual set ti
+ mes not published — reminder is for doors.)\n\nMap: https://maps.google.
+ com/?q=31.5132541\,-9.7694854
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5132541,-9.7694854
+GEO:31.5132541;-9.7694854
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Megaloft,
+  Essaouira":geo:31.5132541,-9.7694854
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Megaloft (REF) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-taros@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T160000
+DTEND;TZID=Africa/Casablanca:20261002T020000
+SUMMARY:MOGA OFF · Taros (Apéros Electros)
+LOCATION:Taros\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 16:00–02:00\nLine-up: Ben
+ abdadil · Chinau · Coleeeette · Dymos · Jamie 3:26 · Jay Fase · Shiz
+ zo · This is Yab\n(Individual set times not published — reminder is for
+  doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9
+ a4e9f588ccf:0x65843d760f3f7eb3
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
+ 65843d760f3f7eb3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Taros (Apéros Electros) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-sqala-live@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T170000
+DTEND;TZID=Africa/Casablanca:20261001T230000
+SUMMARY:MOGA OFF · Live Music at Sqala — free w/ RSVP
+LOCATION:Sqala\, Essaouira medina
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:00–23:00\nLine-up: Bil
+ li · Retro Cassetta · Glitter55 · MOGA Academy DJs · Monile\n(Individu
+ al set times not published — reminder is for doors.)\n\nMap: https://map
+ s.app.goo.gl/5DpsptY7JEzdhYuY7\nRSVP / info: https://shotgun.live/fr/festi
+ vals/live-music-at-sqala-01-10
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://shotgun.live/fr/festivals/live-music-at-sqala-01-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Live Music at Sqala — free w/ RSVP starts in 30 m
+ inutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-palazzo@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T170000
+DTEND;TZID=Africa/Casablanca:20261002T013000
+SUMMARY:MOGA OFF · Le Palazzo (Reload)
+LOCATION:Hôtel Le Palazzo\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:00–01:30\nLine-up: CAP
+  · Holly Molly · Topper\n(Individual set times not published — reminde
+ r is for doors.)\n\nMap: https://maps.google.com/?q=31.5113488\,-9.7707799
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5113488,-9.7707799
+GEO:31.5113488;-9.7707799
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Palazzo, Essaouira":geo:31.5113488,-9.7707799
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Le Palazzo (Reload) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-villanour@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T173000
+DTEND;TZID=Africa/Casablanca:20261002T023000
+SUMMARY:MOGA OFF · Villa Nour (Secte)
+LOCATION:Villa Nour\, km 7 Douar El Ghazoua\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 17:30–02:30\nLine-up: Ash
+ i · Biisse · E-Youb · Julien Blanch · Ladagnous · Nico Rodas · UU'B\
+ n(Individual set times not published — reminder is for doors.)\n\nMap: h
+ ttps://maps.google.com/?q=31.4547196\,-9.7457477
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4547196,-9.7457477
+GEO:31.4547196;-9.7457477
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Villa Nou
+ r, km 7 Douar El Ghazoua, Essaouira":geo:31.4547196,-9.7457477
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Villa Nour (Secte) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-beachfriends@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T180000
+DTEND;TZID=Africa/Casablanca:20261002T020000
+SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
+LOCATION:Beach & Friends\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 18:00–02:00\nLine-up: Gab
+ riel Belabbas · Illspleen · Mendy\n(Individual set times not published 
+ — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.4973091\
+ ,-9.7630615
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4973091,-9.7630615
+GEO:31.4973091;-9.7630615
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Beach & F
+ riends, Essaouira":geo:31.4973091,-9.7630615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Beach & Friends × Le Matin Records starts in 30 mi
+ nutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-coupole@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T190000
+DTEND;TZID=Africa/Casablanca:20261002T013000
+SUMMARY:MOGA OFF · La Coupole (Shift Collective)
+LOCATION:La Coupole\, Essaouira Beach
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 19:00–01:30\nLine-up: ANO
+ IR · Thomas & Steewa · Tino · Wailis\n(Individual set times not publish
+ ed — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.50500
+ 81\,-9.7635198
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5050081,-9.7635198
+GEO:31.5050081;-9.7635198
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="La Coupol
+ e, Essaouira Beach":geo:31.5050081,-9.7635198
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · La Coupole (Shift Collective) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-cosmo@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T210000
+DTEND;TZID=Africa/Casablanca:20261002T020000
+SUMMARY:MOGA OFF · Cosmo
+LOCATION:Cosmo Mogador\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 21:00–02:00\nLine-up: Ant
+ hony Cox · DJ Donut · Soufwax · Victori1\n(Individual set times not pub
+ lished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.5
+ 121952\,-9.7720978
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.5121952,-9.7720978
+GEO:31.5121952;-9.7720978
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Cosmo Mog
+ ador, Essaouira":geo:31.5121952,-9.7720978
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Cosmo starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T160000
+DTEND;TZID=Africa/Casablanca:20261002T180000
+SUMMARY:Mov. · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 16:00
+ –18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mov. · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T180000
+DTEND;TZID=Africa/Casablanca:20261002T193000
+SUMMARY:Florentia · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 18:00
+ –19:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Florentia · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-1930@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T193000
+DTEND;TZID=Africa/Casablanca:20261002T213000
+SUMMARY:Othman Kabbadj · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 19:30
+ –21:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Othman Kabbadj · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-2130@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T213000
+DTEND;TZID=Africa/Casablanca:20261003T000000
+SUMMARY:Gawdat · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 21:30
+ –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gawdat · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T000000
+DTEND;TZID=Africa/Casablanca:20261003T020000
+SUMMARY:Jamie Jones · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 00:00
+ –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jamie Jones · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-hafla-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T020000
+DTEND;TZID=Africa/Casablanca:20261003T040000
+SUMMARY:Richy Ahmed · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Hafla\nSet: 02:00
+ –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Richy Ahmed · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T160000
+DTEND;TZID=Africa/Casablanca:20261002T180000
+SUMMARY:Asmun · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 16:00
+ –18:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Asmun · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T180000
+DTEND;TZID=Africa/Casablanca:20261002T200000
+SUMMARY:N4BZ · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 18:00
+ –20:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N4BZ · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T200000
+DTEND;TZID=Africa/Casablanca:20261002T220000
+SUMMARY:Hamadeus · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 20:00
+ –22:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hamadeus · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T220000
+DTEND;TZID=Africa/Casablanca:20261003T000000
+SUMMARY:Oz & Rem · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 22:00
+ –00:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Oz & Rem · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T000000
+DTEND;TZID=Africa/Casablanca:20261003T020000
+SUMMARY:Jhobei · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 00:00
+ –02:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jhobei · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-sqala-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T020000
+DTEND;TZID=Africa/Casablanca:20261003T040000
+SUMMARY:Julian Anthony · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Sqala\nSet: 02:00
+ –04:00\nCartoon Record showcase.\n\nMap: https://maps.google.com/?q=31.4
+ 70125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets?event=ess
+ aouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Julian Anthony · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-jrda-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T160000
+DTEND;TZID=Africa/Casablanca:20261002T180000
+SUMMARY:Jilali · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: J'rda\nSet: 16:00
+ –18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jilali · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-jrda-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T180000
+DTEND;TZID=Africa/Casablanca:20261002T200000
+SUMMARY:Jakaw · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: J'rda\nSet: 18:00
+ –20:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jakaw · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-jrda-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T200000
+DTEND;TZID=Africa/Casablanca:20261003T000000
+SUMMARY:Piiticu · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: J'rda\nSet: 20:00
+ –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Piiticu · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-jrda-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T000000
+DTEND;TZID=Africa/Casablanca:20261003T040000
+SUMMARY:Rhadoo · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: J'rda\nSet: 00:00
+ –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rhadoo · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T160000
+DTEND;TZID=Africa/Casablanca:20261002T180000
+SUMMARY:Oufras · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 16:00
+ –18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Oufras · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T180000
+DTEND;TZID=Africa/Casablanca:20261002T200000
+SUMMARY:Waillis · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 18:00
+ –20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Waillis · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T200000
+DTEND;TZID=Africa/Casablanca:20261002T220000
+SUMMARY:Yassir · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 20:00
+ –22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yassir · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261002T220000
+DTEND;TZID=Africa/Casablanca:20261003T000000
+SUMMARY:Rikku · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 22:00
+ –00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rikku · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T000000
+DTEND;TZID=Africa/Casablanca:20261003T020000
+SUMMARY:Tripple Seven · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 00:00
+ –02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tripple Seven · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T020000
+DTEND;TZID=Africa/Casablanca:20261003T040000
+SUMMARY:De La Roza · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 02:00
+ –04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:De La Roza · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T160000
+DTEND;TZID=Africa/Casablanca:20261003T180000
+SUMMARY:Jazzee & Meyzz · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 16:0
+ 0–18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jazzee & Meyzz · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T180000
+DTEND;TZID=Africa/Casablanca:20261003T200000
+SUMMARY:Halfpint · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 18:0
+ 0–20:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfpint · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T200000
+DTEND;TZID=Africa/Casablanca:20261003T220000
+SUMMARY:Jesse Calosso · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 20:0
+ 0–22:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jesse Calosso · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T220000
+DTEND;TZID=Africa/Casablanca:20261004T000000
+SUMMARY:Matisa · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 22:0
+ 0–00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matisa · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T000000
+DTEND;TZID=Africa/Casablanca:20261004T020000
+SUMMARY:The Martinez Brothers · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 00:0
+ 0–02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Martinez Brothers · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-hafla-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T020000
+DTEND;TZID=Africa/Casablanca:20261004T040000
+SUMMARY:Silvie Loto · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Hafla\nSet: 02:0
+ 0–04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Silvie Loto · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T160000
+DTEND;TZID=Africa/Casablanca:20261003T190000
+SUMMARY:Baruck b2b Mambaskar · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 16:0
+ 0–19:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Baruck b2b Mambaskar · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-1900@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T190000
+DTEND;TZID=Africa/Casablanca:20261003T210000
+SUMMARY:Abel · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 19:0
+ 0–21:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abel · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-2100@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T210000
+DTEND;TZID=Africa/Casablanca:20261003T230000
+SUMMARY:Yamagucci · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 21:0
+ 0–23:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yamagucci · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-2300@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T230000
+DTEND;TZID=Africa/Casablanca:20261004T003000
+SUMMARY:Notre Dame · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 23:0
+ 0–00:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notre Dame · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-0030@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T003000
+DTEND;TZID=Africa/Casablanca:20261004T020000
+SUMMARY:Ramyen · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 00:3
+ 0–02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramyen · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-sqala-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T020000
+DTEND;TZID=Africa/Casablanca:20261004T040000
+SUMMARY:Notre Dame b2b Ramyen b2b Yamagucci · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Sqala\nSet: 02:0
+ 0–04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notre Dame b2b Ramyen b2b Yamagucci · Sqala starts in 30 minut
+ es
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-jrda-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T160000
+DTEND;TZID=Africa/Casablanca:20261003T180000
+SUMMARY:Hyde b2b Rain · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: J'rda\nSet: 16:0
+ 0–18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hyde b2b Rain · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-jrda-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T180000
+DTEND;TZID=Africa/Casablanca:20261003T210000
+SUMMARY:Mumsfilibaba · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: J'rda\nSet: 18:0
+ 0–21:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mumsfilibaba · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-jrda-2100@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T210000
+DTEND;TZID=Africa/Casablanca:20261003T230000
+SUMMARY:Sonja Moonear · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: J'rda\nSet: 21:0
+ 0–23:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sonja Moonear · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-jrda-2300@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T230000
+DTEND;TZID=Africa/Casablanca:20261004T020000
+SUMMARY:Fantastic Man b2b Tornado Wallace · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: J'rda\nSet: 23:0
+ 0–02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fantastic Man b2b Tornado Wallace · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-jrda-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T020000
+DTEND;TZID=Africa/Casablanca:20261004T040000
+SUMMARY:Malika b2b Yaya (MA) · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: J'rda\nSet: 02:0
+ 0–04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTicket
+ s: https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Malika b2b Yaya (MA) · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T160000
+DTEND;TZID=Africa/Casablanca:20261003T180000
+SUMMARY:Acid Ramen · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 16:
+ 00–18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Acid Ramen · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T180000
+DTEND;TZID=Africa/Casablanca:20261003T200000
+SUMMARY:Moruki · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 18:
+ 00–20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moruki · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T200000
+DTEND;TZID=Africa/Casablanca:20261003T220000
+SUMMARY:Memed Awad · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 20:
+ 00–22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Memed Awad · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T220000
+DTEND;TZID=Africa/Casablanca:20261004T000000
+SUMMARY:Alexis Cabrera (Live) · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 22:
+ 00–00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alexis Cabrera (Live) · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T000000
+DTEND;TZID=Africa/Casablanca:20261004T020000
+SUMMARY:Calabasa · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 00:
+ 00–02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Calabasa · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-03-maalma-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T020000
+DTEND;TZID=Africa/Casablanca:20261004T040000
+SUMMARY:Voigtmann · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Saturday 3 Oct\nStage: Maalma\nSet: 02:
+ 00–04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google
+ .com/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/ticke
+ ts?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Voigtmann · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T160000
+DTEND;TZID=Africa/Casablanca:20261004T180000
+SUMMARY:Ebba · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 16:00
+ –18:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ebba · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T180000
+DTEND;TZID=Africa/Casablanca:20261004T200000
+SUMMARY:Polyswitch · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 18:00
+ –20:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Polyswitch · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T200000
+DTEND;TZID=Africa/Casablanca:20261004T220000
+SUMMARY:Doudou MD · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 20:00
+ –22:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Doudou MD · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T220000
+DTEND;TZID=Africa/Casablanca:20261005T000000
+SUMMARY:Bradley Zero · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 22:00
+ –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bradley Zero · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T000000
+DTEND;TZID=Africa/Casablanca:20261005T020000
+SUMMARY:ANOTR · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 00:00
+ –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANOTR · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-hafla-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T020000
+DTEND;TZID=Africa/Casablanca:20261005T040000
+SUMMARY:Amine K b2b Daox · Hafla
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Hafla\nSet: 02:00
+ –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Hafla
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Amine K b2b Daox · Hafla starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-sqala-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T160000
+DTEND;TZID=Africa/Casablanca:20261004T190000
+SUMMARY:Loewenthal · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 16:00
+ –19:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Loewenthal · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-sqala-1900@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T190000
+DTEND;TZID=Africa/Casablanca:20261004T213000
+SUMMARY:Kalabrese · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 19:00
+ –21:30\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalabrese · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-sqala-2130@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T213000
+DTEND;TZID=Africa/Casablanca:20261005T000000
+SUMMARY:Viken Arman · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 21:30
+ –00:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Viken Arman · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-sqala-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T000000
+DTEND;TZID=Africa/Casablanca:20261005T020000
+SUMMARY:Fort Romeau · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 00:00
+ –02:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fort Romeau · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-sqala-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T020000
+DTEND;TZID=Africa/Casablanca:20261005T040000
+SUMMARY:Cesar Merveille · Sqala
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Sqala\nSet: 02:00
+ –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Sqala
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cesar Merveille · Sqala starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-jrda-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T160000
+DTEND;TZID=Africa/Casablanca:20261004T190000
+SUMMARY:Ousseki · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: J'rda\nSet: 16:00
+ –19:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ousseki · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-jrda-1900@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T190000
+DTEND;TZID=Africa/Casablanca:20261004T210000
+SUMMARY:Yahya (Live) · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: J'rda\nSet: 19:00
+ –21:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yahya (Live) · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-jrda-2100@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T210000
+DTEND;TZID=Africa/Casablanca:20261004T230000
+SUMMARY:DJ Senc · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: J'rda\nSet: 21:00
+ –23:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DJ Senc · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-jrda-2300@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T230000
+DTEND;TZID=Africa/Casablanca:20261005T010000
+SUMMARY:Enrica Falqui · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: J'rda\nSet: 23:00
+ –01:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enrica Falqui · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-jrda-0100@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T010000
+DTEND;TZID=Africa/Casablanca:20261005T040000
+SUMMARY:Tunik · J'rda
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: J'rda\nSet: 01:00
+ –04:00\n\nMap: https://maps.google.com/?q=31.470125\,-9.7672651\nTickets
+ : https://www.mogafestival.com/tickets?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,J'rda
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tunik · J'rda starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-1600@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T160000
+DTEND;TZID=Africa/Casablanca:20261004T180000
+SUMMARY:Umaedo · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 16:00
+ –18:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Umaedo · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-1800@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T180000
+DTEND;TZID=Africa/Casablanca:20261004T200000
+SUMMARY:Badr Ake · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 18:00
+ –20:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Badr Ake · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-2000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T200000
+DTEND;TZID=Africa/Casablanca:20261004T220000
+SUMMARY:Aykat · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 20:00
+ –22:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aykat · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-2200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261004T220000
+DTEND;TZID=Africa/Casablanca:20261005T000000
+SUMMARY:Saul · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 22:00
+ –00:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Saul · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-0000@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T000000
+DTEND;TZID=Africa/Casablanca:20261005T020000
+SUMMARY:Ignacio Morales · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 00:00
+ –02:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ignacio Morales · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moga2026-2026-10-04-maalma-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261005T020000
+DTEND;TZID=Africa/Casablanca:20261005T040000
+SUMMARY:Ruven Medici · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Sunday 4 Oct\nStage: Maalma\nSet: 02:00
+ –04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ruven Medici · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

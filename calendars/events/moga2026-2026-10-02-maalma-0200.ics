@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moga-planning//MOGA Essaouira 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:De La Roza · Maalma
+X-WR-TIMEZONE:Africa/Casablanca
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+BEGIN:STANDARD
+DTSTART:20180101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:+01
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:moga2026-2026-10-02-maalma-0200@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261003T020000
+DTEND;TZID=Africa/Casablanca:20261003T040000
+SUMMARY:De La Roza · Maalma
+LOCATION:Hôtel Le Golf d'Essaouira & Spa (ex-Sofitel Mogador)\, Essaouira\
+ , Morocco
+DESCRIPTION:MOGA Essaouira 2026 — Friday 2 Oct\nStage: Maalma\nSet: 02:00
+ –04:00\nMaalma stage curated by Supervibe.\n\nMap: https://maps.google.c
+ om/?q=31.470125\,-9.7672651\nTickets: https://www.mogafestival.com/tickets
+ ?event=essaouira
+CATEGORIES:MOGA 2026,MOGA,Maalma
+URL:https://www.mogafestival.com/tickets?event=essaouira
+GEO:31.470125;-9.7672651
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Hôtel Le
+  Golf d'Essaouira & Spa (ex-Sofitel Mogador), Essaouira, Morocco":geo:31.4
+ 70125,-9.7672651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:De La Roza · Maalma starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

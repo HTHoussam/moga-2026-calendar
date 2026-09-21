@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moga-planning//MOGA Essaouira 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MOGA OFF · Beach & Friends × Le Matin Records
+X-WR-TIMEZONE:Africa/Casablanca
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+BEGIN:STANDARD
+DTSTART:20180101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:+01
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-beachfriends@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T180000
+DTEND;TZID=Africa/Casablanca:20261002T020000
+SUMMARY:MOGA OFF · Beach & Friends × Le Matin Records
+LOCATION:Beach & Friends\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 18:00–02:00\nLine-up: Gab
+ riel Belabbas · Illspleen · Mendy\n(Individual set times not published 
+ — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.4973091\
+ ,-9.7630615
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4973091,-9.7630615
+GEO:31.4973091;-9.7630615
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="Beach & F
+ riends, Essaouira":geo:31.4973091,-9.7630615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Beach & Friends × Le Matin Records starts in 30 mi
+ nutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

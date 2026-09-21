@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moga-planning//MOGA Essaouira 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MOGA OFF · Taros (Apéros Electros)
+X-WR-TIMEZONE:Africa/Casablanca
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+BEGIN:STANDARD
+DTSTART:20180101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:+01
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:moga2026-off-2026-10-01-taros@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20261001T160000
+DTEND;TZID=Africa/Casablanca:20261002T020000
+SUMMARY:MOGA OFF · Taros (Apéros Electros)
+LOCATION:Taros\, Essaouira
+DESCRIPTION:MOGA OFF — Thursday 1 Oct\nDoors: 16:00–02:00\nLine-up: Ben
+ abdadil · Chinau · Coleeeette · Dymos · Jamie 3:26 · Jay Fase · Shiz
+ zo · This is Yab\n(Individual set times not published — reminder is for
+  doors.)\n\nMap: https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9
+ a4e9f588ccf:0x65843d760f3f7eb3
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://www.google.com/maps/place//data=!4m2!3m1!1s0xdad9a4e9f588ccf:0x
+ 65843d760f3f7eb3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Taros (Apéros Electros) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

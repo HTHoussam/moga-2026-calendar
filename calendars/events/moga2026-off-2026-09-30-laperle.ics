@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moga-planning//MOGA Essaouira 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Tag
+ hazout)
+X-WR-TIMEZONE:Africa/Casablanca
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+BEGIN:STANDARD
+DTSTART:20180101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:+01
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:moga2026-off-2026-09-30-laperle@moga-planning
+DTSTAMP:20260921T203232Z
+DTSTART;TZID=Africa/Casablanca:20260930T120000
+DTEND;TZID=Africa/Casablanca:20260930T190000
+SUMMARY:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Taghazou
+ t)
+LOCATION:La Perle de Mogador Hotel\, Essaouira
+DESCRIPTION:MOGA OFF — Wednesday 30 Sep\nDoors: 12:00–19:00\nLine-up: A
+ lpha · Felix ID · Ivan Escura · Rita Soko\n(Individual set times not pu
+ blished — reminder is for doors.)\n\nMap: https://maps.google.com/?q=31.
+ 4954804\,-9.7569085
+CATEGORIES:MOGA 2026,MOGA OFF
+URL:https://maps.google.com/?q=31.4954804,-9.7569085
+GEO:31.4954804;-9.7569085
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=300;X-TITLE="La Perle 
+ de Mogador Hotel, Essaouira":geo:31.4954804,-9.7569085
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MOGA OFF · Pool Party at La Perle (Le Comptoir Electronik Tagh
+ azout) starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
